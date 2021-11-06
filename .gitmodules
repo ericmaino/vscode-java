@@ -1,0 +1,6 @@
+[submodule "vscode-java"]
+	path = vscode-java
+	url = git@github.com:ericmaino/vscode-java.git
+[submodule "eclipse.jdt.ls"]
+	path = eclipse.jdt.ls
+	url = git@github.com:ericmaino/eclipse.jdt.ls.git
